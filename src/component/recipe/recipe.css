@@ -1,11 +1,12 @@
-span{
-   font-weight: bolder;
-   font-size: 18px
+h1{
+    color: rgb(220, 232, 2);
 }
 img{
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border-radius: 10px;
+    box-shadow:0px 5px 20px rgb(26, 16, 16) ;
+    margin-bottom: 10px;
 }
 li{
     margin: 5px;
@@ -21,4 +22,8 @@ li{
     align-items: center;
     min-width: 40%;
     padding: 20px;
+    background-color: #454545;
+    color: white;
+    border: 5px solid rgb(42, 39, 39);
+    box-shadow: inset 2px 2px 6px black;
 }
